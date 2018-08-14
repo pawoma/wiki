@@ -1,6 +1,6 @@
 # Summary
 
-* [快速开始](README.md)
+* [项目简介](README.md)
 * [前端框架](docs/前端框架.md)
 * [UI组件](docs/iview.md)
     * [iview](docs/iview.md)
@@ -10,11 +10,10 @@
     * [js代码规范](docs/js代码规范.md)
     * [Eslint](docs/Eslint.md)
 * [文件命名规范](docs/文件命名规范.md)
-* [工具使用](docs/工具使用.md)
-    * [git](docs/git使用.md)
-    * [sourceTree使用](docs/sourceTree使用.md)
+* [git](docs/git使用.md)
+* [sourceTree使用](docs/sourceTree使用.md)
 * [前后端接口规范](docs/前后端接口规范.md)
-* [前端知识学习](docs/前端知识学习.md)
+* [前端进阶](docs/前端进阶.md)
     * [推荐书籍](docs/推荐书籍.md)
     * [推荐博客](docs/推荐博客.md)
 * [团队成员](docs/团队成员.md)
